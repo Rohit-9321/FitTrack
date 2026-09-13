@@ -292,6 +292,6 @@ The repository does not include a license file or a confirmed license declaratio
 ## Manual Information Required
 
 - [https://fittrack-frontend-90dm.onrender.com/]  live frontend URL.
-- [https://github.com/Roshan0612/FitTrack]  GitHub repository URL.
-- [Roshan Gawade ]  author.
+- [https://github.com/Rohit-9321/FitTrack]  GitHub repository URL.
+- [Rohit Gupta ]  author.
 
